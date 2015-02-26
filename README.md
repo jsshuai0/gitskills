@@ -9,3 +9,7 @@ haha bug fixed
 public String static getSimpleName(){
     return "anthole";
 }
+
+public String static getId(){
+    return "1";
+}
