@@ -13,3 +13,9 @@ public String static getSimpleName(){
 public String static getId(){
     return "1";
 }
+
+public String static getTime(){
+
+    return "";
+
+}
