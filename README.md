@@ -10,6 +10,12 @@ public String static getSimpleName(){
     return "anthole";
 }
 
+public String static getName(){
+
+    return "";
+
+}
+
 public String static getId(){
     return "1";
 }
